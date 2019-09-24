@@ -1,0 +1,96 @@
+Country or Area,Element,Year,Unit,Value,Value Footnotes,country_code,country_num,population
+Albania,Production,2017,tonnes,27898,,ALB,8,  2 884
+Algeria,Production,2017,tonnes,155878,,DZA,12,  41 389
+American Samoa,Production,2017,tonnes,151,Im,ASM,16,56
+Antigua and Barbuda,Production,2017,tonnes,394,Im,ATG,28,95
+Austria,Production,2017,tonnes,1062,,AUT,40,  8 820
+Azerbaijan,Production,2017,tonnes,77817,,AZE,31,  9 845
+Bahrain,Production,2017,tonnes,1306,Im,BHR,48,  1 494
+Belgium,Production,2017,tonnes,8100,,BEL,56,  11 420
+Bhutan,Production,2017,tonnes,700,F,BTN,64,746
+Brunei Darussalam,Production,2017,tonnes,621,,BRN,96,424
+Bulgaria,Production,2017,tonnes,11908,,BGR,100,  7 102
+Cameroon,Production,2017,tonnes,2346,Im,CMR,120,  24 566
+China,Production,2017,tonnes,32908763,A,CHN,156, 1 421 022
+"China, Hong Kong SAR",Production,2017,tonnes,264,Im,HKG,344,  7 306
+Colombia,Production,2017,tonnes,3625,Im,COL,170,  48 910
+Congo,Production,2017,tonnes,2501,Im,COG,178,  5 111
+Costa Rica,Production,2017,tonnes,91,Im,CRI,188,  4 950
+Côte d'Ivoire,Production,2017,tonnes,99000,,CIV,384,  24 437
+Cyprus,Production,2017,tonnes,2661,,CYP,196,  1 180
+Democratic People's Republic of Korea,Production,2017,tonnes,48372,Im,PRK,408,  25 430
+Djibouti,Production,2017,tonnes,56,Im,DJI,262,944
+Dominican Republic,Production,2017,tonnes,24955,,DOM,214,  10 513
+Egypt,Production,2017,tonnes,1307793,Im,EGY,818,  96 443
+Fiji,Production,2017,tonnes,1366,,FJI,242,877
+France,Production,2017,tonnes,32679,Im,FRA,250,  64 843
+French Guiana,Production,2017,tonnes,1100,Im,GUF,254,275
+Gabon,Production,2017,tonnes,219,Im,GAB,266,  2 065
+Georgia,Production,2017,tonnes,2600,,GEO,268,  4 009
+Ghana,Production,2017,tonnes,51303,Im,GHA,288,  29 121
+Greece,Production,2017,tonnes,63200,,GRC,300,  10 569
+Guadeloupe,Production,2017,tonnes,157,Im,GLP,312,400
+Guam,Production,2017,tonnes,33,Im,GUM,316,164
+Guyana,Production,2017,tonnes,46170,,GUY,328,775
+Haiti,Production,2017,tonnes,851,Im,HTI,332,  10 982
+Honduras,Production,2017,tonnes,15959,Im,HND,340,  9 429
+Hungary,Production,2017,tonnes,2187,,HUN,348,  9 730
+India,Production,2017,tonnes,12510000,,IND,356, 1 338 677
+Indonesia,Production,2017,tonnes,535436,,IDN,360,  264 651
+Iran (Islamic Republic of),Production,2017,tonnes,654149,Im,IRN,364,  80 674
+Iraq,Production,2017,tonnes,94483,,IRQ,368,  37 553
+Israel,Production,2017,tonnes,48996,,ISR,376,  8 244
+Italy,Production,2017,tonnes,286473,,ITA,380,  60 674
+Jamaica,Production,2017,tonnes,405,,JAM,388,  2 921
+Japan,Production,2017,tonnes,307800,,JPN,392,  127 503
+Jordan,Production,2017,tonnes,62790,,JOR,400,  9 786
+Kazakhstan,Production,2017,tonnes,85635,,KAZ,398,  18 080
+Kuwait,Production,2017,tonnes,32075,,KWT,414,  4 056
+Kyrgyzstan,Production,2017,tonnes,880,Im,KGZ,417,  6 190
+Lebanon,Production,2017,tonnes,43606,Im,LBN,422,  6 819
+Libya,Production,2017,tonnes,3564,Im,LBY,434,  6 581
+Lithuania,Production,2017,tonnes,2300,F,LTU,440,  2 845
+Madagascar,Production,2017,tonnes,1734,Im,MDG,450,  25 571
+Malawi,Production,2017,tonnes,26664,,MWI,454,  17 670
+Mali,Production,2017,tonnes,63394,,MLI,466,  18 512
+Malta,Production,2017,tonnes,792,,MLT,470,438
+Martinique,Production,2017,tonnes,405,Im,MTQ,474,376
+Mauritius,Production,2017,tonnes,3099,,MUS,480,  1 264
+Mexico,Production,2017,tonnes,184872,,MEX,484,  124 777
+Micronesia,Production,2017,tonnes,33,A,FSM,583,111
+Morocco,Production,2017,tonnes,52966,,MAR,504,  35 581
+Netherlands,Production,2017,tonnes,53000,,NLD,528,  17 021
+New Caledonia,Production,2017,tonnes,187,,NCL,540,277
+Niger,Production,2017,tonnes,8886,,NER,562,  21 602
+North Macedonia,Production,2017,tonnes,1082,Im,MKD,807,  2 082
+Occupied Palestinian Territory,Production,2017,tonnes,58973,Im,PSE,275,  4 747
+Oman,Production,2017,tonnes,32062,,OMN,512,  4 666
+Pakistan,Production,2017,tonnes,84605,Im,PAK,586,  207 906
+Peru,Production,2017,tonnes,261,,PER,604,  31 444
+Philippines,Production,2017,tonnes,241901,,PHL,608,  105 173
+Polynesia,Production,2017,tonnes,151,A,PYF,258,276
+Portugal,Production,2017,tonnes,5328,Im,PRT,620,  10 289
+Puerto Rico,Production,2017,tonnes,905,Im,PRI,630,  3 164
+Qatar,Production,2017,tonnes,3467,Im,QAT,634,  2 725
+Republic of Korea,Production,2017,tonnes,3824,Im,KOR,410,  51 096
+Republic of Moldova,Production,2017,tonnes,4534,Im,MDA,498,  4 060
+Réunion,Production,2017,tonnes,749,Im,REU,638,876
+Romania,Production,2017,tonnes,124429,Im,ROU,642,  19 654
+Rwanda,Production,2017,tonnes,20000,F,RWA,646,  11 981
+Saudi Arabia,Production,2017,tonnes,23850,,SAU,682,  33 101
+Senegal,Production,2017,tonnes,4729,Im,SEN,686,  15 419
+Serbia,Production,2017,tonnes,2041,Im,SRB,688,  8 830
+Spain,Production,2017,tonnes,225912,,ESP,724,  46 647
+Sri Lanka,Production,2017,tonnes,150388,Im,LKA,144,  21 128
+Sudan,Production,2017,tonnes,90336,Im,SDN,729,  40 813
+Syrian Arab Republic,Production,2017,tonnes,126627,Im,SYR,760,  17 096
+Thailand,Production,2017,tonnes,21745,Im,THA,764,  69 210
+Trinidad and Tobago,Production,2017,tonnes,1745,Im,TTO,780,  1 384
+Tunisia,Production,2017,tonnes,873,Im,TUN,788,  11 433
+Turkey,Production,2017,tonnes,883917,,TUR,792,  81 116
+Ukraine,Production,2017,tonnes,74790,,UKR,804,  44 488
+United Arab Emirates,Production,2017,tonnes,13162,Im,ARE,784,  9 487
+United States of America,Production,2017,tonnes,102757,Im,USA,840,  325 085
+Uzbekistan,Production,2017,tonnes,12878,Im,UZB,860,  31 960
+Venezuela (Bolivarian Republic of),Production,2017,tonnes,17619,Im,VEN,862,  29 402
+Yemen,Production,2017,tonnes,5219,Im,YEM,887,  27 835
